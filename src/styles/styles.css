@@ -1,0 +1,10 @@
+.sections-title {
+  color: var(--font-black);
+  font-size: 40rem;
+  margin-bottom: 10rem;
+}
+
+.sections-span {
+  color: var(--font-black);
+  font-size: 14rem;
+}

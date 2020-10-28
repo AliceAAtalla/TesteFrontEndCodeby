@@ -26,4 +26,5 @@
   color: var(--font-black);
   margin: 70rem 0;
   padding: 10rem 60rem;
+  background-color: var(--btn-main);
 }

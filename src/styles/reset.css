@@ -53,6 +53,12 @@ body {
   src: url('../assets/fonte/Poppins-SemiBold.ttf');
 }
 
+@font-face {
+  font-family: 'Poppins';
+  font-weight: 400;
+  src: url('../assets/fonte/Poppins-Regular.ttf');
+}
+
 :root {
   /* Colors */
   --font-white:  #ffffff;
