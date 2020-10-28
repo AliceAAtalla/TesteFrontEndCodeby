@@ -4,5 +4,12 @@
 
 .categories-title {
   font-size: 40rem;
-  font-weight: 500;
+  /* font-weight: 500; */
+  color: var(--font-black);
+}
+
+.categories-span {
+  font-size: 14rem;
+  /* font-weight: 500; */
+  color: var(--font-black);
 }
